@@ -1,1 +1,3 @@
-Base application code
+Base version of application
+Login module initialized
+
