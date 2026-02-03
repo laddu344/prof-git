@@ -1,1 +1,2 @@
 Base application code
+Profile module initialized
